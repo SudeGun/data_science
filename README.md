@@ -1,6 +1,6 @@
-# Data Science & Analytics Projects (AIN 214)
+# Data Science & Analytics Projects
 
-Bu depo, Hacettepe Üniversitesi Yapay Zeka Mühendisliği Bölümü **AIN 214: Data Science and Analytics** dersi kapsamında tamamladığım veri ön işleme, ilişkisel veri tabanı tasarımı (SQL), keşifçi veri analizi (EDA), makine öğrenmesi (Regresyon & Sınıflandırma) ve veri görselleştirme projelerini içermektedir.
+Bu repo, **AIN 214: Data Science and Analytics** dersi kapsamında tamamladığım veri ön işleme, ilişkisel veri tabanı tasarımı (SQL), keşifçi veri analizi (EDA), makine öğrenmesi (Regresyon & Sınıflandırma) ve veri görselleştirme projelerini içermektedir.
 
 ---
 
